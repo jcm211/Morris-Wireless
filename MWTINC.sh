@@ -2,8 +2,8 @@
 #This script create for auto setup Raspberry Pi 3 WiFi Router
 # Author - James Morris
 clear
-/bin/cat <<'Morris Wireless Tech Industry'
-Morris Wireless Tech Industry
+/bin/cat <<'Morris Wireless'
+Morris Wireless
 if [ $? != 0 ] 
 then
   echo "This program must be run as root. run again as root"
